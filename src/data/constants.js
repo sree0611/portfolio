@@ -249,8 +249,7 @@ export const skills = [
       },
       {
         name: "Bitbucket",
-        image:
-          "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+        image: "https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg",
       },
       {
         name: "VS Code",
